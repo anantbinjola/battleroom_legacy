@@ -1,0 +1,32 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="21">
+            <File firstVisibleLine="50" xOffset="0" scrollWidth="890" startPos="1305" endPos="1322" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Window.java" />
+            <File firstVisibleLine="19" xOffset="0" scrollWidth="550" startPos="421" endPos="421" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Animation.java" />
+            <File firstVisibleLine="72" xOffset="0" scrollWidth="4580" startPos="2527" endPos="2527" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Archer.java" />
+            <File firstVisibleLine="103" xOffset="0" scrollWidth="936" startPos="2108" endPos="2108" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Arrow.java" />
+            <File firstVisibleLine="103" xOffset="0" scrollWidth="3090" startPos="276" endPos="276" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Bandit.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Block.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1325" startPos="0" endPos="0" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\BufferedImageLoader.java" />
+            <File firstVisibleLine="15" xOffset="0" scrollWidth="850" startPos="815" endPos="815" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Bullet.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="330" startPos="0" endPos="0" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\BulletId.java" />
+            <File firstVisibleLine="41" xOffset="0" scrollWidth="648" startPos="719" endPos="719" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\BulletType1.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\BulletType2.java" />
+            <File firstVisibleLine="29" xOffset="0" scrollWidth="702" startPos="456" endPos="456" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Camera.java" />
+            <File firstVisibleLine="145" xOffset="0" scrollWidth="1326" startPos="3100" endPos="3100" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Cutscene.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="742" startPos="680" endPos="687" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Enemy.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="330" startPos="0" endPos="0" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\EnemyId.java" />
+            <File firstVisibleLine="244" xOffset="0" scrollWidth="1452" startPos="7035" endPos="7035" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Game.java" />
+            <File firstVisibleLine="140" xOffset="0" scrollWidth="1642" startPos="3496" endPos="3496" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\GameObject.java" />
+            <File firstVisibleLine="25" xOffset="0" scrollWidth="740" startPos="442" endPos="442" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Handler.java" />
+            <File firstVisibleLine="71" xOffset="0" scrollWidth="980" startPos="1522" endPos="1522" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\KeyInput.java" />
+            <File firstVisibleLine="60" xOffset="0" scrollWidth="510" startPos="1313" endPos="1313" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Menu.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="432" startPos="0" endPos="0" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\ObjectId.java" />
+            <File firstVisibleLine="261" xOffset="0" scrollWidth="2203" startPos="5494" endPos="5494" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Player.java" />
+            <File firstVisibleLine="544" xOffset="0" scrollWidth="1341" startPos="10656" endPos="10656" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\ShootingBandit.java" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\SpriteSheet.java" />
+            <File firstVisibleLine="216" xOffset="0" scrollWidth="1561" startPos="7156" endPos="7156" selMode="0" lang="Java" encoding="-1" filename="C:\Anant&apos;s Folder\2nd year java platformer\Project_2\src\Texture.java" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
