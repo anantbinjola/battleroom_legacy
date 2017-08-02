@@ -7,6 +7,6 @@ package com.payne.game.framework;
 public enum ObjectId
 {
 
-	Player1(),Player2(),Block(), Bullets(),Enemy();
+	Player(),Block(), Bullets(),Enemy();
 
 }

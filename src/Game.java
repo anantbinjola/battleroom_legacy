@@ -257,15 +257,13 @@ public class Game extends Canvas implements Runnable
 		long timer = System.currentTimeMillis();
 		int updates = 0;
 		int frames = 0;
-
-		//game loop
+		
 		while(running)
 		{
 			long now = System.nanoTime();
 			delta += (now - lastTime) / ns;
 			lastTime = now;
 			
-			//update till difference of last time processing so that no update is missed due to performance issues
 			while(delta >= 1)
 			{
 				if(state == STATE.GAME)
@@ -285,14 +283,13 @@ public class Game extends Canvas implements Runnable
 			
 			}
 				
-			//render frames.
 			render();
-			//count frame.
+			
 			frames++;
-			//count frames and updates per second. timer is start time for loop. system.currentTimeMillis is current times
+			
 			if(System.currentTimeMillis() - timer > 1000)
 			{
-				timer += 1000;	//set timer to last update time
+				timer += 1000;
 				System.out.println("FPS: " + frames + " TICKS: " + updates);
 				frames = 0;
 				updates = 0;

@@ -12,13 +12,13 @@ import java.awt.event.KeyEvent;
 
 public class KeyInput extends KeyAdapter
 {
-	public static boolean response=true;
+	public static boolean response=true, oneAttack = false;
 	
-	// public static boolean toggleWeapon=true;
+	public static boolean toggleWeapon=true;
 	
+	public static int noW=1; 					//no. of weapons
 	
-	
-	
+	public static int weaponIndex=0;
 	
 	GameObject tempObject=null;
 	
@@ -43,7 +43,7 @@ public class KeyInput extends KeyAdapter
 		for(int i=0;i<handler.object.size();i++)
 		{
 			tempObject = handler.object.get(i);
-			if(tempObject.getId() == ObjectId.Player1)
+			if(tempObject.getId() == ObjectId.Player)
 			{	
 	
 				
